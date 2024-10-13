@@ -2,9 +2,6 @@
 
 Nesse repositório, serão adicionados os desafios propostos pelo bootcamp "GFT Start #6 - Lógica de Programação", promovido pela DIO, em parceria com a multinaciona alemã "GFT Technologies".
 
-# Orientações do desafio 1
-
-Instruções para entrega
 # 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
