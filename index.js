@@ -1,4 +1,8 @@
+// Variável para herói utilizando lista (uma vez que objetos ainda não foram abordados no bootcamp)
+//              Nome        XP
 const heroi = ["Légolas", 13000];
+// Variável para armazenar os títulos disponíveis
+//              [0]        [1]       [2]      [3]      [4]         [5]          [6]        [7]
 const niveis = ["Ferro", "Bronze", "Prata", "Ouro", "Platina", "Ascendente", "Imortal", "Radiante"];
 
 if (heroi[1] < 1000) {
