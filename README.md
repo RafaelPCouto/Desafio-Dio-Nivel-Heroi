@@ -1,4 +1,4 @@
-# Desafio-Dio-Nivel-Heroi
+# Desafios DIO: GFT Start #6 - Lógica de Programação
 
 Nesse repositório, serão adicionados os desafios propostos pelo bootcamp "GFT Start #6 - Lógica de Programação", promovido pela DIO, em parceria com a multinaciona alemã "GFT Technologies".
 
